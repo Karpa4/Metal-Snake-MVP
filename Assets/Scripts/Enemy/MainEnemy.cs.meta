@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4590cfda2c4664e4fa8864c4c854eb59
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - carDriver: {instanceID: 0}
+  - bearClip: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

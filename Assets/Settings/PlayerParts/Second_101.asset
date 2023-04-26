@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ef57d18cfc717974cbffaa06792bbbc1, type: 3}
+  m_Name: Second_101
+  m_EditorClassIdentifier: 
+  id: 500
+  detailGameName: "\u0420\u0430\u043A\u0435\u0442\u0430"
+  description: "\u0412\u0437\u0440\u044B\u0432\u044B!"
+  type: 5
+  price: 0
+  currencyType: 0
+  minPlayerLevel: 1
+  garageSprite: {fileID: 21300000, guid: 99f5f09159a36ad45a10e24ed3ed497c, type: 3}
+  gameDetailSprite: {fileID: 21300000, guid: cf9f691814847ec4882483b073d22720, type: 3}
+  garageOffset: {x: 0, y: 0}
+  weaponData: {fileID: 11400000, guid: 7ef6f44de487b1e4f9776ffa887724e0, type: 2}
+  secondStandSprite: {fileID: 21300000, guid: de82b011e39c9f045b97b6523f84bbb1, type: 3}
+  secondStandUISprite: {fileID: 21300000, guid: f9a1c685bf53762458b1351f4d2e0fc2, type: 3}
+  bullets: 5

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ef57d18cfc717974cbffaa06792bbbc1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - garageSprite: {instanceID: 0}
+  - gameDetailSprite: {instanceID: 0}
+  - weaponData: {instanceID: 0}
+  - secondStandSprite: {instanceID: 0}
+  - secondStandUISprite: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

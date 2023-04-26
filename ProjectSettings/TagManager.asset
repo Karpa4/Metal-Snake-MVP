@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - Carriage
+  - Enemy
+  - Projectile
+  - Aim
+  - Bumper
+  - EnemyTargetCollider
+  - LeftBound
+  - RightBound
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Enemy
+  - Carriage
+  - Obstacle
+  - PlayerBullet
+  - EnemyBullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Props
+    uniqueID: 4078118975
+    locked: 0
+  - name: Vehicle
+    uniqueID: 792419859
+    locked: 0
+  - name: Upper
+    uniqueID: 1693039681
+    locked: 0

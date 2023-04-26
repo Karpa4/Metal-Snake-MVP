@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c99e198927f509c498fb55999e258b6c, type: 3}
+  m_Name: Main_301
+  m_EditorClassIdentifier: 
+  id: 402
+  detailGameName: "\u0412\u0438\u043D\u0442\u043E\u0432\u043A\u0430"
+  description: "\u0414\u043B\u044F \u0442\u0435\u0445, \u043A\u0442\u043E \u043B\u044E\u0431\u0438\u0442
+    \u0442\u043E\u0447\u043D\u043E\u0441\u0442\u044C"
+  type: 4
+  price: 2000
+  currencyType: 0
+  minPlayerLevel: 5
+  garageSprite: {fileID: 21300000, guid: 5bc76351db079d749af37cccdf4fbd4f, type: 3}
+  gameDetailSprite: {fileID: 21300000, guid: b6229b8c2babe6b4e8d8465cb51c6dbd, type: 3}
+  garageOffset: {x: -0.33, y: 0.11}
+  shopInfoTruckSprite: {fileID: 21300000, guid: c4942ed7a31c5e145ba2a292cf0d4ed6, type: 3}
+  shopInfoDetailOffset: {x: -28, y: 83.5, z: 0}
+  shopInfoTruckOffset: {x: -14, y: -65, z: 0}
+  detailImageSize: {x: 362, y: 186.5}
+  truckImageSize: {x: 568, y: 467}
+  weaponData: {fileID: 11400000, guid: e3a613be21c5ac0439d69d105c462f83, type: 2}
+  mainStandSprite: {fileID: 21300000, guid: 24e8791e163553c45b9b42115e9ded78, type: 3}
+  mainWeaponGO: {fileID: 116073149795877153, guid: 000e2fe147a4507409b96c7d86522ccc, type: 3}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a0d94284dda6ae45884a26f8fa5560d, type: 3}
+  m_Name: Graffity 4
+  m_EditorClassIdentifier: 
+  id: 604
+  detailGameName: "\u0413\u0438\u0442\u0430\u0440\u043D\u044B\u0439 \u0440\u0438\u0444\u0444"
+  description: 
+  type: 6
+  price: 100
+  currencyType: 1
+  minPlayerLevel: 0
+  garageSprite: {fileID: 21300000, guid: 313c557a6f1086242b965a1898440701, type: 3}
+  gameDetailSprite: {fileID: 21300000, guid: 313c557a6f1086242b965a1898440701, type: 3}
+  garageOffset: {x: 0, y: 0}
+  shopInfoTruckSprite: {fileID: 0}
+  shopInfoDetailOffset: {x: 0, y: 0, z: 0}
+  shopInfoTruckOffset: {x: 0, y: 0, z: 0}
+  detailImageSize: {x: 400, y: 400}
+  truckImageSize: {x: 0, y: 0}

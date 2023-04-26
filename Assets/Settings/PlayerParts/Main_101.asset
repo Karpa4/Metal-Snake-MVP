@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c99e198927f509c498fb55999e258b6c, type: 3}
+  m_Name: Main_101
+  m_EditorClassIdentifier: 
+  id: 400
+  detailGameName: "\u041F\u0443\u043B\u0435\u043C\u0435\u0442"
+  description: "\u041E\u043D \u0441\u0442\u0440\u0435\u043B\u044F\u0435\u0442 - \u044D\u0442\u043E
+    \u0443\u0436\u0435 \u0434\u043E\u0441\u0442\u0438\u0436\u0435\u043D\u0438\u0435"
+  type: 4
+  price: 0
+  currencyType: 0
+  minPlayerLevel: 1
+  garageSprite: {fileID: 21300000, guid: a0c6e80f4a99219479bfbe5a69ec3952, type: 3}
+  gameDetailSprite: {fileID: 21300000, guid: c068902c72e6ffa4797c378176c4ee5a, type: 3}
+  weaponData: {fileID: 11400000, guid: 8559d8e91e3f31d44a241ee33b356310, type: 2}
+  mainStandSprite: {fileID: 21300000, guid: b98c830b5b331814fa4cfa1498e94817, type: 3}
+  mainWeaponGO: {fileID: 116073149795877153, guid: 6ed18b7fa312f1048b06716daa3aa268, type: 3}

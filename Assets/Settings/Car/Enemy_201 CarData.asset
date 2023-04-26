@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa6433a173b4f0d46a503ec393834562, type: 3}
+  m_Name: Enemy_201 CarData
+  m_EditorClassIdentifier: 
+  speedMax: 9
+  speedMin: -1
+  acceleration: 0.7
+  brakeSpeed: 100
+  reverseSpeed: 30
+  idleSlowdown: 10
+  turnSpeedMax: 400
+  turnSpeedAcceleration: 400
+  turnIdleSlowdown: 200
+  maxHP: 1400
+  carSprite: {fileID: 21300000, guid: 951b7f0817b50c54bb207e8af40fda52, type: 3}
+  carName: "\u0414\u0438\u043A\u043E\u0431\u0440\u0430\u0437"
